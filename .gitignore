@@ -1,2 +1,4 @@
-.pkl
-.pdf
+*.pkl
+*.pdf
+.ipynb_checkpoints
+__pycache__
